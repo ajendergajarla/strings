@@ -19,3 +19,6 @@ class Solution:
        
         return s1
     
+    # TC: O(N)
+    # SC: o(N)
+    
