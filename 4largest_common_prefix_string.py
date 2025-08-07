@@ -15,4 +15,13 @@ class Solution:
 """
 TC: O(N)
 SC: O(1)
+
+Input: ["flower", "flow", "flight"]
+Output: "fl"
+
+Input: ["dog", "racecar", "car"]
+Output: ""
+
+Input: ["flower", "flowers"]
+Output: "flower"
 """
